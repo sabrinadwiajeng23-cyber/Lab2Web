@@ -50,6 +50,10 @@ Tujuan dari praktikum ini adalah:
 6. Memahami struktur semantic HTML.
 7. Memahami penggunaan multimedia audio dan video.
 8. Membuat halaman biodata mahasiswa menggunakan HTML.
+<img width="1535" height="812" alt="image" src="https://github.com/user-attachments/assets/6283845d-db5b-4c25-a70f-7c42f3aadde4" />
+
+<img width="1133" height="598" alt="image" src="https://github.com/user-attachments/assets/277bdb31-f604-4db5-884d-6b1f3f7a2e32" />
+
 
 ---
 
